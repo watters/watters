@@ -1,5 +1,17 @@
 ### Hello 👋🏻
 
+#### Are you interviewing (as a candidate) for technical roles?
+
+If you need someone to run a practice interview with, reach out via [Twitter] (DMs are open), [LinkedIn].
+
+#### Hire Me!
+
+I'm actively looking for a my next **hands-on senior engineering role**.
+
+Don't hesitate to reach out via [Twitter] (DMs are open), [LinkedIn] or email: me at cameronwatters.com
+
+#### Technical Background
+
 My expertise centers around—
 
 - loosely coupled, independently deliverable multi-service architecture design and delivery (e.g. "microservices" and other service-oriented approaches) for SaaS products
@@ -17,12 +29,6 @@ My resume has a [longer (but still not exhaustive) list](https://cameronwatters.
 - PostgreSQL
 – Microsoft SQL Server
 - Redis
-
-#### Hire Me!
-
-I'm actively looking for a my next **hands-on senior engineering role**.
-
-Don't hesitate to reach out via [Twitter] (DMs are open), [LinkedIn] or email: me at cameronwatters.com
 
 ### Links
 
