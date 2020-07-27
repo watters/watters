@@ -1,8 +1,8 @@
 ### Hello 👋🏻
 
-#### Are you interviewing (as a candidate) for technical roles?
+#### Technical (Coding & System Design) Interview Practice
 
-If you need someone to run a practice interview with, reach out via [Twitter] (DMs are open), [LinkedIn].
+Are you preparing for technical interviews? I'd be happy to run a practice interview (schedules permitting); reach out via [Twitter] (DMs are open), [LinkedIn] if you're interested.
 
 #### Hire Me!
 
