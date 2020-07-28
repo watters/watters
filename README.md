@@ -27,7 +27,7 @@ My resume has a [longer (but still not exhaustive) list](https://cameronwatters.
 - JavaScript
 - MySQL
 - PostgreSQL
-– Microsoft SQL Server
+- Microsoft SQL Server
 - Redis
 
 ### Links
